@@ -1,2 +1,2 @@
 # testgeo
-User geolocation
+User google api to find geolocation
